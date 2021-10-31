@@ -1,0 +1,5 @@
+make -C /lib/modules/3.2.0-23-generic-pae/build SUBDIRS=/media/sf_VM-shared/sistemas-operativos/taller_drivers/Ejercicios modules
+make[1]: se ingresa al directorio «/usr/src/linux-headers-3.2.0-23-generic-pae»
+  CC [M]  /media/sf_VM-shared/sistemas-operativos/taller_drivers/Ejercicios/nulo.o
+  CC [M]  /media/sf_VM-shared/sistemas-operativos/taller_drivers/Ejercicios/azar.o
+make[1]: se sale del directorio «/usr/src/linux-headers-3.2.0-23-generic-pae»
